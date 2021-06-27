@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+  <img alt="PayFlow" src="https://github.com/rocketseat-education/nlw-06-flutter/blob/main/.github/payflow-logo.png" width="200px">
 </p>
 
 <p align="center">
